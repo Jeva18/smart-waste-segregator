@@ -19,4 +19,15 @@ Python, PyTorch, OpenCV, Fuzzy Logic, Arduino IDE
 The dataset is too large for GitHub.  
 👉 [Download here](https://drive.google.com/drive/folders/1rldigqUWFpb9cjf-ccTm8gJbrXfnbG21?usp=drive_link) 
 
+Improper waste disposal is one of the most persistent problems in the Philippines, leading to pollution, flooding, and health issues.  
+
+The **Smart Waste Segregator** aims to:  
+- Encourage **proper waste segregation** by making it automatic and effortless  
+- Reduce landfill volume through accurate classification of recyclable, residual, and biodegradable waste  
+- Support **sustainability goals** in schools, communities, and cities  
+- Lay the foundation for **future smart city waste management systems**  
+
+By combining AI, fuzzy logic, and embedded systems, this project shows how technology can create real-world impact in building cleaner, smarter, and more sustainable communities.  
+
+
 
